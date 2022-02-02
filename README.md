@@ -1,1 +1,1 @@
-# IC-Design-Lab-IC-Lab-
+# IC Design Lab
